@@ -1,0 +1,5 @@
+{
+  "normalize_column_names": true,
+  "drop_exact_duplicates": true,
+  "coerce_numeric_columns": true
+}
